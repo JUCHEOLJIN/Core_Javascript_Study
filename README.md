@@ -12,6 +12,7 @@ Contributors👩‍🎓 : [hjkdw95](https://github.com/hjkdw95), [dev-bomdong](h
 
 ### 2. 실행 컨텍스트
 
+- [실행컨텍스트 & Variable Environment](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/2%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%26%20Variable%20Environment.md)
 - [Lexical Environment, this](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/2%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/LexcialEnvironment.md)
 
 ### 3. this
