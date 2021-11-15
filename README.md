@@ -10,12 +10,18 @@ Contributors👩‍🎓 : [hjkdw95](https://github.com/hjkdw95), [dev-bomdong](h
 
 - [기본형 데이터와 참조형 데이터](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/1%EC%9E%A5%20_Data_Type/%EA%B8%B0%EB%B3%B8%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%B0%B8%EC%A1%B0%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
 
+- [불변 객체](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/1%EC%9E%A5%20_Data_Type/%EB%B6%88%EB%B3%80%EA%B0%9D%EC%B2%B4.md)
+
+- [undefined 와 null](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/1%EC%9E%A5%20_Data_Type/undefined%EC%99%80%20null.md)
+
 ### 2. 실행 컨텍스트
 
 - [실행컨텍스트 & Variable Environment](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/2%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%26%20Variable%20Environment.md)
 - [Lexical Environment, this](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/2%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/LexcialEnvironment.md)
 
 ### 3. this
+
+- [상황에 따라 달라지는 this](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/3%EC%9E%A5_this/%EC%83%81%ED%99%A9%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%20this.md)
 
 ### 4. 콜백 함수 (Promise)
 
