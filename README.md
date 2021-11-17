@@ -22,6 +22,8 @@ Contributors👩‍🎓 : [hjkdw95](https://github.com/hjkdw95), [dev-bomdong](h
 ### 3. this
 
 - [상황에 따라 달라지는 this](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/3%EC%9E%A5_this/%EC%83%81%ED%99%A9%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%20this.md)
+- [명시적으로 this를 바인딩하는 방법](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/3%EC%9E%A5_this/%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20this%EB%A5%BC%20%EB%B0%94%EC%9D%B8%EB%94%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+
 
 ### 4. 콜백 함수 (Promise)
 
