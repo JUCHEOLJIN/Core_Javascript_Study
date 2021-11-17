@@ -30,7 +30,7 @@ Contributors👩‍🎓 : [hjkdw95](https://github.com/hjkdw95), [dev-bomdong](h
 - [callback의 정의와 특징](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/4%EC%9E%A5_%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98/callback%EC%9D%98_%EC%A0%95%EC%9D%98%EC%99%80_%ED%8A%B9%EC%A7%95.md)
 
 ### 5. 클로저
-
+- [Closure](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/5%EC%9E%A5_closure/closure.md)
 ### 6. 프로토타입
 
 ### 7. 클래스
