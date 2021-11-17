@@ -168,6 +168,7 @@ closure의 본질적 특성 중 하나는 **메모리 소모**가 발생한다�
   `bind` 없이 넘기는 경우 콜백 함수의 인자에 대한 제어권을 `addEventListener` 가 가지게 된다.
   이 `addEventListener` 는 콜백함수를 호출 할 때 첫번째 인자에 "이벤트 객체"를 주입하기에 li를 클릭 할 경우 `[object MouseEvent]` 라는 값이 출력된다.
   그래서 이벤트 객체 대신에 우리가 원하는 fruit가 먼저 넘어올 수 있도록 하려면 bind메서드를 사용해서 처리해야 한다.
+
 ![스크린샷 2021-11-15 오후 8 15 26](https://user-images.githubusercontent.com/76423949/142139814-279137f9-3117-49ea-be49-020fc7e994a2.png)
 ![스크린샷 2021-11-15 오후 8 15 41](https://user-images.githubusercontent.com/76423949/142139825-bd989bd3-0b04-4861-a22e-985cca09b961.png)
 
