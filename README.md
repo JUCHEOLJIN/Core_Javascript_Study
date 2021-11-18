@@ -31,6 +31,9 @@ Contributors👩‍🎓 : [hjkdw95](https://github.com/hjkdw95), [dev-bomdong](h
 
 ### 5. 클로저
 - [Closure](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/5%EC%9E%A5_closure/closure.md)
+
 ### 6. 프로토타입
+
+- [Prototype의 정의](https://github.com/hjkdw95/Core_Javascript_Study/blob/main/6%EC%9E%A5_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/prototype%EC%9D%98_%EC%A0%95%EC%9D%98.md)
 
 ### 7. 클래스
